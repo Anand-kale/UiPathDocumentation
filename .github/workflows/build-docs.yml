@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'UiPathDocumenation/ud'
+  INSTANCE: 'Writerside/ud'
   ARTIFACT: 'webHelpUD2-all.zip'
   DOCKER_VERSION: '241.15989'
 
