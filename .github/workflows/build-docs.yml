@@ -8,6 +8,7 @@ on:
 env:
   INSTANCE: 'UiPathDocumenation/ud'
   ARTIFACT: 'webHelpUD2-all.zip'
+  DOCKER_VERSION: '241.15989'
 
 jobs:
   build:
