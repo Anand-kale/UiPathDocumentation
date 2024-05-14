@@ -8,4 +8,6 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="UiPath-Orchestrator.md"/>
+    <toc-element topic="UiPath-ReFramework.md"/>
+    <toc-element topic="UiPath-State-Machines.md"/>
 </instance-profile>
